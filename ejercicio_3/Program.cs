@@ -20,7 +20,7 @@ namespace ejercio_3
             /*Filtrar y mostrar*/
             if (numeroIngresado <= 0 || numeroIngresado > 99)
             {
-                Console.WriteLine("El numero debe ser mayor a 0 y de maximo dos digitos");
+                Console.WriteLine("El numero debe ser mayor a 0 y de dos digitos como maximo");
             }
             else if (numeroIngresado < 10)
             {
